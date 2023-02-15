@@ -1,0 +1,4 @@
+include ':app', ':libuvccamera', ':usbCameraCommon'
+include ':camerafilterlib'
+include ':camerafilter'
+include ':myapplication'
