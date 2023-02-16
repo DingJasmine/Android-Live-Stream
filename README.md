@@ -6,12 +6,11 @@ For the prosperity of live streaming, more and more various display is needed. T
 Details in report
 
 ## Testing
-Important statement for testing:
-
+Important statement for testing:   
 (1) Considering that the test of our project involves multiple UVC cameras and USB hub , if you have any need on those devices please contact us. The situation of our project has been reported to Dr.Chen and agreements on testing have been made with him.
 
 (2) Due to the complexity of lib and device dependence , the streaming function and filter function could not integrate into the environment for main application with libuvccamera. If you have any need to test them ,please contact us.
 
 
-Thanks for understanding! \\
+Thanks for understanding!   
 Group CAN301 cw1
