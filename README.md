@@ -13,6 +13,5 @@ Important statement for testing:
 (2) Due to the complexity of lib and device dependence , the streaming function and filter function could not integrate into the environment for main application with libuvccamera. If you have any need to test them ,please contact us.
 
 
-Thanks for understanding!
-
+Thanks for understanding! \\
 Group CAN301 cw1
